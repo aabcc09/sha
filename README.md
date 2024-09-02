@@ -9,3 +9,5 @@ echo "    return a - b" >> calculator.py
 git add calculator.py
 git commit -m "Add basic addition and subtraction functions"
 git push origin main
+git clone https://github.com/xiaowang/simple-calculator.git
+cd simple-calculator
